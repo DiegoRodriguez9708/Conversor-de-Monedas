@@ -8,9 +8,11 @@ EUR
 MXN
 ARS 
 GBP.
+
 Actualización en tiempo real de las tasas de cambio mediante una conexión con una API.
 Validación de valores ingresados, con mensajes de alerta para cantidades no válidas.
 Menú de navegación intuitivo para seleccionar opciones de conversión.
+
 ## 📋 Estructura del Proyecto
 Principal.java: Clase principal que muestra el menú y recibe las opciones de usuario.
 Conversor.java: Clase que gestiona las conversiones y validaciones de cantidades.
