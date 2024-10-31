@@ -19,12 +19,12 @@ Menú de navegación intuitivo para seleccionar opciones de conversión.
 * Conversor.java: Clase que gestiona las conversiones y validaciones de cantidades.
   
 * ApiConnector.java: Clase que se conecta a la API de tasas de cambio para obtener las tasas de conversión actualizadas.
-* 
+  
 ## Requisitos
-Java 11 o superior
-Gson: Librería para el manejo de datos JSON obtenidos de la API.
-Ejecución
-Clona el repositorio.
-Configura las dependencias en tu entorno de desarrollo.
-Compila y ejecuta la clase Principal para comenzar a usar el conversor.
-Este proyecto es ideal para quienes deseen aprender sobre integración de APIs en Java y desarrollar aplicaciones con tasas de cambio en tiempo real.
+  * Java 11 o superior
+  * Gson: Librería para el manejo de datos JSON obtenidos de la API.
+## Ejecución
+  * Clona el repositorio.
+  * Configura las dependencias en tu entorno de desarrollo.
+  * Compila y ejecuta la clase Principal para comenzar a usar el conversor.
+** Este proyecto es ideal para quienes deseen aprender sobre integración de APIs en Java y desarrollar aplicaciones con tasas de cambio en tiempo real. **
